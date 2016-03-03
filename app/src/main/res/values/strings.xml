@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ConnexionInscriptionBDD</string>
+    <integer name="BDD_VERSION">3</integer>
+    <string name="TABLE_USERS">USERS</string>
+
+</resources>
